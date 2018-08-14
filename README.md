@@ -1,1 +1,1 @@
-# yale_football
+# Ivy League Play by Play Data
